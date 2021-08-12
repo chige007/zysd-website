@@ -1,0 +1,99 @@
+@import 'util.less';
+
+#Website{
+    background-image: url(http://pmt8e84ed.pic16.websiteonline.cn/upload/k8et.png);
+    height: 3200px;
+}
+#global-menu{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 999999;
+    height: 60px;
+    border-bottom: 1px solid #ffffff;
+    .animation();
+    .global-menu-container{
+        margin: 0px auto;
+        width: @containerWidth;
+        height: 100%;
+        .global-menu-logo{
+            display: inline-block;
+            height: 36px;
+            margin-top: 10px;
+            text-decoration: none;
+            cursor: pointer;
+            img{
+                height: 100%;
+            }
+        }
+        .global-menu-menus{
+            float: right;
+            height: 100%;
+            .global-menu-menus-item{
+                position: static;
+                display: inline-block;
+                height: 100%;
+                vertical-align: top;
+                cursor: pointer;
+                >a{
+                    font-size: 14px;
+                    color: #fff;
+                    display: block;
+                    padding: 0px 15px;
+                    height: 100%;
+                    line-height: 60px;
+                    text-decoration: none;
+                }
+                .global-menu-subMenus{
+                    position: absolute;
+                    overflow: hidden;
+                    top: 60px;
+                    left: 0px;
+                    right: 0px;
+                    margin: auto;
+                    height: 0px;
+                    .animation();
+                    >a{
+                        display: inline-block;
+                        line-height: 45px;
+                        vertical-align: top;
+                        padding: 0px 15px;
+                        font-size: 13px;
+                        color: #fff;
+                        text-decoration: none;
+                        cursor: pointer;
+                    }
+                    &.show{
+                        height: 45px;
+                    }
+                }
+            }
+            .global-menu-active{
+                position: absolute;
+                display: none;
+                bottom: -1px;
+                z-index: 1;
+                height: 3px;
+                width: 28px;
+                padding: 0px 2px;
+                left: 15px;
+                background-color: #fff;
+                .animation();
+                &.show{
+                    display: block;
+                }
+            }
+        }
+    }
+    &.hide{
+        top: -62px;
+    }
+    &.dark{
+        background-color: rgba(33, 33, 33, 0.7);
+        border-bottom: none;
+        .global-menu-subMenus{
+            background-color: rgba(66, 66, 66, 0.7)!important;
+        }
+    }
+}

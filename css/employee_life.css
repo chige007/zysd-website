@@ -1,0 +1,298 @@
+.MY-CODE,
+.MY-CODE * {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  position: relative;
+  line-height: 1;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+#layerA63D0C9F29AD106E9727B8D2EFA9F69C {
+  height: auto!important;
+}
+#layerA63D0C9F29AD106E9727B8D2EFA9F69C > .wp-advhtml_content {
+  height: auto!important;
+}
+#employee-life .employee-life-timeline {
+  height: 60px;
+  background-image: url(https://pmt8e84ed-pic16.websiteonline.cn/upload/vgdc.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 0px 70px;
+  text-align: center;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-left,
+#employee-life .employee-life-timeline .employee-life-timeline-right {
+  position: absolute;
+  height: 31px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  cursor: pointer;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-left .zysd-default,
+#employee-life .employee-life-timeline .employee-life-timeline-right .zysd-default {
+  display: block;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-left .zysd-active,
+#employee-life .employee-life-timeline .employee-life-timeline-right .zysd-active {
+  display: none;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-left:hover .zysd-default,
+#employee-life .employee-life-timeline .employee-life-timeline-right:hover .zysd-default {
+  display: none;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-left:hover .zysd-active,
+#employee-life .employee-life-timeline .employee-life-timeline-right:hover .zysd-active {
+  display: block;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-left {
+  left: 10px;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-right {
+  right: 10px;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-years {
+  white-space: nowrap;
+  overflow: hidden;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-years .employee-life-timeline-year {
+  display: inline-block;
+  height: 60px;
+  line-height: 60px;
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+  width: 120px;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-years .employee-life-timeline-year.active {
+  color: #DC0315;
+  font-size: 22px;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-years .employee-life-timeline-year.active:after {
+  bottom: 0px;
+  border-bottom: 10px solid #DC0315;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-years .employee-life-timeline-year:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 2px;
+  margin: auto;
+  width: 0;
+  height: 0;
+  border-bottom: 0px solid #DC0315;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  transition: all 0.6s;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+}
+#employee-life .employee-life-timeline .employee-life-timeline-years .employee-life-timeline-year:hover {
+  cursor: pointer;
+  color: #DC0315;
+}
+#employee-life .employee-life-pics {
+  padding-top: 50px;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap {
+  display: none;
+  overflow: hidden;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  perspective: 2000;
+  -webkit-perspective: 2000px;
+  /*父类容器中 perspective 子类允许透视*/
+  -moz-perspective: 2000px;
+  -ms-perspective: 2000px;
+  -o-perspective: 2000px;
+  perspective: 2000px;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic {
+  float: left;
+  padding: 6px;
+  width: 33.33%;
+  margin-bottom: 40px;
+  transition: all 0.6s;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -webkit-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  transform: rotateY(-77deg);
+  -ms-transform: rotateY(-77deg);
+  -moz-transform: rotateY(-77deg);
+  -webkit-transform: rotateY(-77deg);
+  -o-transform: rotateY(-77deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(1) {
+  transform: rotateY(-125deg);
+  -ms-transform: rotateY(-125deg);
+  -moz-transform: rotateY(-125deg);
+  -webkit-transform: rotateY(-125deg);
+  -o-transform: rotateY(-125deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(2) {
+  transform: rotateX(145deg);
+  -ms-transform: rotateX(145deg);
+  -moz-transform: rotateX(145deg);
+  -webkit-transform: rotateX(145deg);
+  -o-transform: rotateX(145deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(3) {
+  transform: rotateY(110deg);
+  -ms-transform: rotateY(110deg);
+  -moz-transform: rotateY(110deg);
+  -webkit-transform: rotateY(110deg);
+  -o-transform: rotateY(110deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(4) {
+  transform: rotateX(135deg);
+  -ms-transform: rotateX(135deg);
+  -moz-transform: rotateX(135deg);
+  -webkit-transform: rotateX(135deg);
+  -o-transform: rotateX(135deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(5) {
+  transform: rotateY(-135deg);
+  -ms-transform: rotateY(-135deg);
+  -moz-transform: rotateY(-135deg);
+  -webkit-transform: rotateY(-135deg);
+  -o-transform: rotateY(-135deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(6) {
+  transform: rotateX(-145deg);
+  -ms-transform: rotateX(-145deg);
+  -moz-transform: rotateX(-145deg);
+  -webkit-transform: rotateX(-145deg);
+  -o-transform: rotateX(-145deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(7) {
+  transform: rotateY(145deg);
+  -ms-transform: rotateY(145deg);
+  -moz-transform: rotateY(145deg);
+  -webkit-transform: rotateY(145deg);
+  -o-transform: rotateY(145deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(8) {
+  transform: rotateX(160deg);
+  -ms-transform: rotateX(160deg);
+  -moz-transform: rotateX(160deg);
+  -webkit-transform: rotateX(160deg);
+  -o-transform: rotateX(160deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(9) {
+  transform: rotateY(135deg);
+  -ms-transform: rotateY(135deg);
+  -moz-transform: rotateY(135deg);
+  -webkit-transform: rotateY(135deg);
+  -o-transform: rotateY(135deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(10) {
+  transform: rotateX(-135deg);
+  -ms-transform: rotateX(-135deg);
+  -moz-transform: rotateX(-135deg);
+  -webkit-transform: rotateX(-135deg);
+  -o-transform: rotateX(-135deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(11) {
+  transform: rotateY(-145deg);
+  -ms-transform: rotateY(-145deg);
+  -moz-transform: rotateY(-145deg);
+  -webkit-transform: rotateY(-145deg);
+  -o-transform: rotateY(-145deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:nth-child(12) {
+  transform: rotateX(145deg);
+  -ms-transform: rotateX(145deg);
+  -moz-transform: rotateX(145deg);
+  -webkit-transform: rotateX(145deg);
+  -o-transform: rotateX(145deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic.show {
+  transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  -o-transform: rotateY(0deg);
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic > p {
+  display: block;
+  font-size: 18px;
+  color: #333;
+  padding: 15px 0px;
+  line-height: 1;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic > div {
+  padding-bottom: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic > div:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  box-shadow: 0px 0px 10px #666;
+  -webkit-box-shadow: 0px 0px 10px #666;
+  -moz-box-shadow: 0px 0px 10px #666;
+  -ms-box-shadow: 0px 0px 10px #666;
+  -o-box-shadow: 0px 0px 10px #666;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:before {
+  content: '';
+  height: 1px;
+  background-color: #e4e4e4;
+  left: 6px;
+  right: 6px;
+  top: 0px;
+  position: absolute;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:after {
+  content: '';
+  height: 2px;
+  background-color: #DC0315;
+  left: 6px;
+  width: 50px;
+  top: 0px;
+  position: absolute;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap .employee-life-pics-wrap-pic:hover {
+  z-index: 9;
+}
+#employee-life .employee-life-pics .employee-life-pics-wrap.active {
+  display: block;
+}

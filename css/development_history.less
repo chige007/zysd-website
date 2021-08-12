@@ -1,0 +1,156 @@
+@import 'util.less';
+
+
+.MY-CODE,
+.MY-CODE *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    position: relative;
+    line-height: 1;
+	font-family: Arial, Helvetica, sans-serif!important;
+}
+
+#development-history{
+    height: 630px;
+    padding-top: 80px;
+    .development-history-content{
+        height: 380px;
+        overflow: hidden;
+        white-space: nowrap;
+        .development-history-content-year-event{
+            position: absolute;
+            z-index: 1;
+            top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;
+            margin: auto;
+            display: inline-block;
+            vertical-align: middle;
+            width: 780px;
+            height: 380px;
+            padding: 40px;
+            background-image: url(http://pmt8e84ed.pic16.websiteonline.cn/upload/d59x.png);
+            .transform(scale(0.75)); 
+            .animation(.4s);
+            .development-history-content-year-event-title{
+                font-size: 16px;
+                color: #fff;
+                padding-left: 60px;
+            }
+            .development-history-content-month-event-top,
+            .development-history-content-month-event-bottom{
+                padding-left: 1px;
+                cursor: pointer;
+                img{
+                    width: 24px;
+                }
+            }
+            .development-history-content-month-event-wrap{
+                height: 258px;
+                overflow: hidden;
+                .development-history-content-month-event{
+                    padding: 12px 0px;
+                    color: #fff;
+                    overflow: hidden;
+                    .development-history-content-month-event-left{
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-size: 15px;
+                        width: 8%;
+                    }
+                    .development-history-content-month-event-right{
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-size: 13px;
+                        width: 90%;
+                        line-height: 20px;
+                        white-space: normal;
+                        word-break: break-all;
+                    }
+                }
+            }
+            &.active{
+                z-index: 9;
+                .boxShadow(0px 0px 10px #333);
+                .transform(scale(1)); 
+            }
+            &.active-left,
+            &.active-right{
+                z-index: 8;
+                display: inline-block;
+            }
+            &.active-left{
+                .transform(scale(0.75) translateX(-300px));
+            }
+            &.active-right{
+                .transform(scale(0.75) translateX(300px));
+            }
+        }
+    }
+    .development-history-timeline{
+        position: absolute;
+        bottom: 50px;
+        width: 100%;
+        height: 80px;
+        white-space: nowrap;
+        .development-history-timeline-line{
+            position: absolute;
+            top: 60px;
+            height: 3px;
+            width: 100%;
+            background-color: #e3e3e3;
+        }
+        .development-history-timeline-dot-wrap{
+            height: 100%;
+            z-index: 1;
+            .animation(.4s);
+            white-space: nowrap;
+            .development-history-timeline-dot{
+                display: inline-block;
+                vertical-align: top;
+                width: 100px;
+                text-align: center;
+                padding-top: 20px;
+                >p{
+                    color: #666;
+                    font-size: 13px;
+                }
+                >div{
+                    display: inline-block;
+                    height: 14px;
+                    width: 14px;
+                    background-color: #d7d7d7;
+                    border: 3px solid #fff;
+                    margin-top: 21px;
+                    .animation();
+                    .radius(100px);
+                    .boxShadow(1px 1px 2px #ddd);
+                }
+                &.active{
+                    >div{
+                        height: 22px;
+                        width: 22px;
+                        margin-top: 17px;
+                        background-color: @red;
+                        .boxShadow(1px 1px 3px #ddd);
+                    }
+                    &:hover{
+                        >div{
+                            background-color: @red;
+                            .boxShadow(1px 1px 3px #ddd);
+                        }
+                    }
+                }
+                &:hover{
+                    cursor: pointer;
+                    >div{
+                        background-color: #bbb;
+                        .boxShadow(1px 1px 3px #ccc);
+                    }
+                }
+            }
+        }
+    }
+}

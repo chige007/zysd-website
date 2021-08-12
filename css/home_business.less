@@ -1,0 +1,164 @@
+@import 'util.less';
+
+#Website{
+    height: 740px;
+    width: 100%;
+    background-image: url(https://pmt8e84ed-pic16.websiteonline.cn/upload/dzxa.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    overflow: hidden;
+    *{
+        box-sizing: border-box;
+        position: relative;
+        margin: 0px;
+        padding: 0px;
+    }
+}
+#home-business{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    .home-business-content{
+        margin: 0px auto;
+        .home-business-content-item{
+            position: absolute;
+            width: 750px;
+            top: 130px;
+            left: 0px;
+            right: 0px;
+            margin: auto;
+            text-align: center;
+            .opacity(0);
+            p.home-business-content-item-title{
+                line-height: 1;
+                font-size: 28px;
+                color: #fff;
+                margin-bottom: 50px;
+            }
+            p.home-business-content-item-text{
+                font-size: 14px;
+                color: #fff;
+                line-height: 30px;
+            }
+            .home-business-content-item-button{
+                width: 135px;
+                height: 40px;
+                font-size: 14px;
+                color: #fff;
+                margin-top: 80px;
+                line-height: 1;
+                border: 1px solid #fff;
+                background-color: transparent;
+                .radius(3px);
+                .animation();
+                &:hover{
+                    cursor: pointer;
+                    background-color: #fff;
+                    color: #333;
+                }
+            }
+            &.active{
+                z-index: 1;
+            }
+            &.hide{
+                .moves(home-business-hide, .3s, ease-out, 1, 0s, 1)
+            }
+            &.show{
+                .opacity(1);
+                .moves(home-business-show, .3s, ease-out, 1, 0s, 1)
+            }
+        }
+    }
+    .home-business-nav{
+        position: absolute;
+        bottom: 100px;
+        left: 0px;
+        right: 0px;
+        margin: auto;
+        width: 94%;
+        background-color: #fff;
+        height: 125px;
+        white-space: nowrap;
+        .radius(2px);
+        .home-business-nav-item{
+            .animation();
+            float: left;
+            width: 11.11111%;
+            height: 100%;
+            padding-top: 21px;
+            text-align: center;
+            border-left: 1px solid #e4e4e4;
+            img{
+                width: 48px;
+                height: 48px;
+                margin-bottom: 14px;
+                display: inline-block;
+                .animation();
+                &.active{
+                    display: none;
+                }
+            }
+            p{
+                font-size: 15px;
+                line-height: 1;
+                color: #000;
+                .animation();
+            }
+            &:first-child{
+                border-left: none;
+            }
+            &.active{
+                background-color: @red;
+                p{
+                    color: #fff;
+                }
+                &:hover{
+                    background-color: @red;
+                    p{
+                        color: #fff;
+                    }
+                    img{
+                        .transform(scale(1));
+                    }
+                }
+                img{
+                    display: none;
+                    &.active{
+                        display: inline-block;
+                    }
+                }
+            }
+            &:hover{
+                cursor: pointer;
+                background-color: #e4e4e4;
+                img{
+                    .transform(scale(1.1));
+                }
+            }
+        }
+    }
+}
+
+
+@keyframes home-business-hide {
+	0%{
+        .opacity(1);
+		.transform(translateY(0px))
+	}
+	100% {
+        .opacity(0);
+        .transform(translateY(-150px) scale(0.6))
+	}
+}
+@keyframes home-business-show {
+	0%{
+        .opacity(0);
+		.transform(translateY(360px))
+	}
+	100% {
+        .opacity(1);
+        .transform(translateY(0px))
+	}
+}

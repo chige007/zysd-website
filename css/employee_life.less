@@ -1,0 +1,213 @@
+@import 'util.less';
+
+
+.MY-CODE,
+.MY-CODE *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    position: relative;
+    line-height: 1;
+	font-family: Arial, Helvetica, sans-serif!important;
+}
+
+#layerA63D0C9F29AD106E9727B8D2EFA9F69C{
+    >.wp-advhtml_content{
+        height: auto!important;
+    }
+    height: auto!important;
+}
+#employee-life{
+    .employee-life-timeline{
+        height: 60px;
+        background-image: url(https://pmt8e84ed-pic16.websiteonline.cn/upload/vgdc.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding: 0px 70px;
+        text-align: center;
+        .employee-life-timeline-left,
+        .employee-life-timeline-right{
+            position: absolute;
+            height: 31px; 
+            top: 0px;
+            bottom: 0px;
+            margin: auto;
+            cursor: pointer;
+            .zysd-default{
+                display: block;
+            }
+            .zysd-active{
+                display: none;
+            }
+            &:hover{
+                .zysd-default{
+                    display: none;
+                }
+                .zysd-active{
+                    display: block;
+                }
+            }
+        }
+        .employee-life-timeline-left{
+            left: 10px;
+        }
+        .employee-life-timeline-right{
+            right: 10px;
+        }
+        .employee-life-timeline-years{
+            white-space: nowrap;
+            overflow: hidden;
+            .employee-life-timeline-year{
+                display: inline-block;
+                height: 60px;
+                line-height: 60px;
+                font-size: 16px;
+                color: #666;
+                text-align: center;
+                width: 120px;
+                .animation();
+                &.active{
+                    color: @red;
+                    font-size: 22px;
+                    &:after{
+                        bottom: 0px;
+                        border-bottom: 10px solid @red;
+                    }
+                }
+                &:after{
+                    content: '';
+                    position: absolute;
+                    left: 0px;
+                    right: 0px;
+                    bottom: 2px;
+                    margin: auto;
+                    width: 0;
+                    height: 0;
+                    border-bottom: 0px solid @red;
+                    border-left: 10px solid transparent;
+                    border-right: 10px solid transparent;
+                    .animation(.6s);
+                }
+                &:hover{
+                    cursor: pointer;
+                    color: @red;
+                }
+            }
+        }
+    }
+    .employee-life-pics{
+        padding-top: 50px;
+        .employee-life-pics-wrap{
+            display: none;
+            overflow: hidden;
+            .animation(.4s);
+            perspective: 2000;
+            -webkit-perspective: 2000px; /*父类容器中 perspective 子类允许透视*/
+            -moz-perspective: 2000px;
+            -ms-perspective: 2000px;
+            -o-perspective: 2000px;
+            perspective: 2000px;
+            .employee-life-pics-wrap-pic{
+                float: left;
+                padding: 6px;
+                width: 33.33%;
+                margin-bottom: 40px;
+                .animation(.6s);
+                -webkit-transform-style: preserve-3d;
+                -ms-transform-style: preserve-3d;
+                -o-transform-style: preserve-3d;
+                transform-style: preserve-3d;
+                backface-visibility:hidden;
+                -webkit-backface-visibility:hidden;
+                -moz-backface-visibility:hidden;
+                -ms-backface-visibility:hidden;
+                -o-backface-visibility:hidden;
+                .transform(rotateY(-77deg));
+                &:nth-child(1){
+                    .transform(rotateY(-125deg));
+                }
+                &:nth-child(2){
+                    .transform(rotateX(145deg));
+                }
+                &:nth-child(3){
+                    .transform(rotateY(110deg));
+                }
+                &:nth-child(4){
+                    .transform(rotateX(135deg));
+                }
+                &:nth-child(5){
+                    .transform(rotateY(-135deg));
+                }
+                &:nth-child(6){
+                    .transform(rotateX(-145deg));
+                }
+                &:nth-child(7){
+                    .transform(rotateY(145deg));
+                }
+                &:nth-child(8){
+                    .transform(rotateX(160deg));
+                }
+                &:nth-child(9){
+                    .transform(rotateY(135deg));
+                }
+                &:nth-child(10){
+                    .transform(rotateX(-135deg));
+                }
+                &:nth-child(11){
+                    .transform(rotateY(-145deg));
+                }
+                &:nth-child(12){
+                    .transform(rotateX(145deg));
+                }
+                &.show{
+                    .transform(rotateY(0deg));
+                }
+                >p{
+                    display: block;
+                    font-size: 18px;
+                    color: #333;
+                    padding: 15px 0px;
+                    line-height: 1;
+                }
+                >div{
+                    padding-bottom: 70%;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    .animation(.4s);
+                    &:hover{
+                        cursor: pointer;
+                        .transform(scale(1.1));
+                        .boxShadow(0px 0px 10px #666);
+                    }
+                }
+                &:before{
+                    content: '';
+                    height: 1px;
+                    background-color: #e4e4e4;
+                    left: 6px;
+                    right: 6px;
+                    top: 0px;
+                    position: absolute;
+                }
+                &:after{
+                    content: '';
+                    height: 2px;
+                    background-color: @red;
+                    left: 6px;
+                    width: 50px;
+                    top: 0px;
+                    position: absolute;
+                    .radius(2px);
+                }
+                &:hover{
+                    z-index: 9;
+                }
+            }
+            &.active{
+                display: block;
+            }
+        }
+    }
+}
