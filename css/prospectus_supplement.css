@@ -1,0 +1,132 @@
+body {
+  height: 100%;
+  background-color: #F7F8FA;
+  background-image: url(https://pmt8e84ed-pic16.websiteonline.cn/upload/pexels-andrea-piacquadio-3771097.png);
+  background-repeat: no-repeat;
+  padding-top: 300px;
+}
+#prospectus_supplement {
+  width: 100%;
+  padding-top: 40px;
+}
+#prospectus_supplement ._timeline {
+  width: 100%;
+}
+#prospectus_supplement ._timeline ._line {
+  height: 1px;
+  background-image: url(https://pmt8e84ed-pic16.websiteonline.cn/upload/line1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 37px;
+  left: -200px;
+  right: -200px;
+}
+#prospectus_supplement ._timeline ._timeItems {
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+#prospectus_supplement ._timeline ._timeItems ._timeItem {
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  color: #fff;
+}
+#prospectus_supplement ._timeline ._timeItems ._timeItem p {
+  font-size: 14px;
+  line-height: 1;
+  height: 24px;
+  top: 0px;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+}
+#prospectus_supplement ._timeline ._timeItems ._timeItem img {
+  width: 28px;
+}
+#prospectus_supplement ._timeline ._timeItems ._timeItem.active p {
+  font-size: 20px;
+  top: -4px;
+}
+#prospectus_supplement ._reports {
+  margin-top: 100px;
+  padding-top: 100px;
+  height: 360px;
+  overflow: hidden;
+}
+#prospectus_supplement ._reports ._reportWrap {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  display: none;
+  opacity: 0;
+  -moz-opacity: 0;
+  -o-opacity: 0;
+  filter: alpha(opacity=0);
+}
+#prospectus_supplement ._reports ._reportWrap ._report {
+  display: inline-block;
+  width: 510px;
+  background-color: #fff;
+  height: 256px;
+  box-shadow: 0px 0px 8px #ddd;
+  -webkit-box-shadow: 0px 0px 8px #ddd;
+  -moz-box-shadow: 0px 0px 8px #ddd;
+  -ms-box-shadow: 0px 0px 8px #ddd;
+  -o-box-shadow: 0px 0px 8px #ddd;
+}
+#prospectus_supplement ._reports ._reportWrap ._report img {
+  float: left;
+  width: 200px;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content {
+  float: left;
+  padding: 40px 15px 15px 20px;
+  width: 310px;
+  height: 100%;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content ._title {
+  font-size: 18px;
+  color: #333;
+  word-break: break-all;
+  line-height: 24px;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content ._line {
+  height: 2px;
+  background-color: #DC0315;
+  width: 50px;
+  margin-top: 12px;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content ._date {
+  color: #999;
+  font-size: 12px;
+  margin-top: 20px;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content ._buttons {
+  position: absolute;
+  bottom: 30px;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content ._buttons a {
+  background-color: #DC0315;
+  color: #fff;
+  font-size: 13px;
+  padding: 10px 20px;
+  line-height: 1;
+  text-decoration: none;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  margin-right: 15px;
+}
+#prospectus_supplement ._reports ._reportWrap ._report ._content ._buttons a:hover {
+  background-color: #aa0210;
+}
+#prospectus_supplement ._reports ._reportWrap.active {
+  display: flex;
+}

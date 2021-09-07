@@ -1,0 +1,50 @@
+#layerE8C2DDE8402AA1972250643868EFD071.active a,
+#layerBE45EE52C9F5032CE0FBB5B839236BF2.active a {
+  background-color: #dc0315 !important;
+}
+#layerE8C2DDE8402AA1972250643868EFD071.active a span,
+#layerBE45EE52C9F5032CE0FBB5B839236BF2.active a span {
+  color: #fff !important;
+}
+#layer48AEFB2B6EDD76671203F07E219414BD,
+#layer8ACC27FEEB8930976FE0EDD1BFDF50B4 {
+  opacity: 0;
+  -moz-opacity: 0;
+  -o-opacity: 0;
+  filter: alpha(opacity=0);
+  left: -150% !important;
+  transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+}
+#layer48AEFB2B6EDD76671203F07E219414BD.show,
+#layer8ACC27FEEB8930976FE0EDD1BFDF50B4.show {
+  opacity: 1;
+  -moz-opacity: 1;
+  -o-opacity: 1;
+  filter: alpha(opacity=10);
+  left: 0%!important;
+}
+#layerDED703A60CE02E4B20FC732537EE7CAB,
+#layer4CEBF4C185AB507DFE851915032FA23D {
+  opacity: 0;
+  -moz-opacity: 0;
+  -o-opacity: 0;
+  filter: alpha(opacity=0);
+  left: 150%!important;
+  transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+}
+#layerDED703A60CE02E4B20FC732537EE7CAB.show,
+#layer4CEBF4C185AB507DFE851915032FA23D.show {
+  opacity: 1;
+  -moz-opacity: 1;
+  -o-opacity: 1;
+  filter: alpha(opacity=10);
+  left: 0%!important;
+}

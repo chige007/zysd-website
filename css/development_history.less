@@ -31,7 +31,9 @@
             width: 780px;
             height: 380px;
             padding: 40px;
-            background-image: url(http://pmt8e84ed.pic16.websiteonline.cn/upload/d59x.png);
+            background-image: url(https://pmt8e84ed-pic16.websiteonline.cn/upload/1soz.png);
+            background-size: 110% 110%;
+            background-position: center center;
             .transform(scale(0.75)); 
             .animation(.4s);
             .development-history-content-year-event-title{
@@ -43,6 +45,7 @@
             .development-history-content-month-event-bottom{
                 padding-left: 1px;
                 cursor: pointer;
+                z-index: 9;
                 img{
                     width: 24px;
                 }
@@ -78,7 +81,6 @@
             }
             &.active-left,
             &.active-right{
-                z-index: 8;
                 display: inline-block;
             }
             &.active-left{
@@ -94,7 +96,6 @@
         bottom: 50px;
         width: 100%;
         height: 80px;
-        white-space: nowrap;
         .development-history-timeline-line{
             position: absolute;
             top: 60px;
@@ -104,9 +105,11 @@
         }
         .development-history-timeline-dot-wrap{
             height: 100%;
+            width: 100%;
             z-index: 1;
             .animation(.4s);
             white-space: nowrap;
+            overflow: hidden;
             .development-history-timeline-dot{
                 display: inline-block;
                 vertical-align: top;

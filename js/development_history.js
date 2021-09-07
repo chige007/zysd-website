@@ -336,7 +336,11 @@ $(function(){
     }
     var setActive = function(index) {
         $(timeline).find('.development-history-timeline-dot').removeClass('active');
-        $(timeline).find('.development-history-timeline-dot').eq(index).addClass('active');
+        var offsetLeft = $(timeline).find('.development-history-timeline-dot').eq(index).addClass('active').offset().left;
+        var wrapWidth = $(timeline).innerWidth();
+        scrollLeft = $(timeline)[0].scrollLeft;
+        console.log(offsetLeft, scrollLeft, wrapWidth);
+        $(timeline).animate({scrollLeft: offsetLeft - wrapWidth / 2}, 400);
         $(content).find('.development-history-content-year-event').removeClass('active active-left active-right');
         $(content).find('.development-history-content-year-event').eq(index).addClass('active');
         $(content).find('.development-history-content-year-event').eq(index - 1).addClass('active-left');

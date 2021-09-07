@@ -1,0 +1,95 @@
+#announcements ._list {
+  overflow: hidden;
+}
+#announcements ._list ._listItemWrap {
+  overflow: hidden;
+  padding: 10px 0px;
+  display: none;
+}
+#announcements ._list ._listItemWrap.show {
+  display: block;
+}
+#announcements ._list ._listItemWrap ._listItem {
+  float: left;
+  width: 510px;
+  margin: 0px 20px 20px 20px;
+  height: 160px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  box-shadow: 0px 0px 5px #ccc;
+  -webkit-box-shadow: 0px 0px 5px #ccc;
+  -moz-box-shadow: 0px 0px 5px #ccc;
+  -ms-box-shadow: 0px 0px 5px #ccc;
+  -o-box-shadow: 0px 0px 5px #ccc;
+}
+#announcements ._list ._listItemWrap ._listItem ._title {
+  display: block;
+  height: 60px;
+  font-size: 16px;
+  color: #333;
+  line-height: 22px;
+}
+#announcements ._list ._listItemWrap ._listItem ._date {
+  font-size: 12px;
+  color: #999;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons {
+  margin-top: 25px;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons a {
+  color: #666;
+  font-size: 14px;
+  text-decoration: none;
+  margin-right: 25px;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons a ._icon_1,
+#announcements ._list ._listItemWrap ._listItem ._buttons a ._icon_2 {
+  display: inline-block;
+  margin-right: 6px;
+  height: 18px;
+  vertical-align: -4px;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons a ._icon_2 {
+  display: none;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons a:hover {
+  color: #DC0315;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons a:hover ._icon_2 {
+  display: inline-block;
+}
+#announcements ._list ._listItemWrap ._listItem ._buttons a:hover ._icon_1 {
+  display: none;
+}
+#announcements ._pagination {
+  text-align: center;
+}
+#announcements ._pagination ._pageItem {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  line-height: 35px;
+  color: #666;
+  font-size: 12px;
+  margin: 0px 6px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
+#announcements ._pagination ._pageItem:hover {
+  cursor: pointer;
+  color: #DC0315;
+}
+#announcements ._pagination ._pageItem.active {
+  color: #DC0315;
+  border-color: #DC0315;
+}

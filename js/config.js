@@ -1,18 +1,19 @@
-var GLOBAL_DATA_BANNER_HEIGHT = 700;
+var GLOBAL_DATA_BANNER_HEIGHT = 500;
 var GLOBAL_SCROLLER = $('#scroll_container');
 var GLOBAL_ANIMATION_CONFIG = {
     // 滚动数字
     '#layerB7B6BBC2F8321E4EE6276FF31E5E4B96': {
-        animation: 'zysd-up-show'
+        animation: 'zysd-up-show',
+        offset: -80
     },
     // banner中文标语
-    '#layer2D553D114F7C29A43DBF94C385F8050E': {
-        animation: 'zysd-left-show'
-    },
+    // '#layer2D553D114F7C29A43DBF94C385F8050E': {
+    //     animation: 'zysd-left-show'
+    // },
     // banner英文标语
-    '#layer1328939354DCBA88BB884175846ED21A': {
-        animation: 'zysd-right-show'
-    },
+    // '#layer1328939354DCBA88BB884175846ED21A': {
+    //     animation: 'zysd-right-show'
+    // },
     // 公司简介 - 第一段
     '#layerC3253904E66A5197C13FD6AA8D887A20': {
         animation: 'zysd-up-show'
