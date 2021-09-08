@@ -19,7 +19,7 @@ $(function(){
         setActiveStyle(this);
         var subMenus = $(this).find('.global-menu-subMenus').eq(0);
         if (subMenus.length) {
-            $(subMenus).css('padding-left', $(this).position().left + 'px').addClass('show');
+            $(subMenus).addClass('show').find('._subMenusWrap').css('left', $(this).position().left + 'px');
         }
     }).on('mouseleave', function(){
         console.log('【global-menu-menus-item】mouseleave');

@@ -1,6 +1,6 @@
 var announcements = {
     page: 0,
-    pageSize: 8,
+    pageSize: 10,
     data: [
         {
             title: '全球发售',

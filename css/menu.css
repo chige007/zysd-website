@@ -65,7 +65,15 @@
   -o-transition: all 0.3s;
   -ms-transition: all 0.3s;
 }
-#global-menu .global-menu-container .global-menu-menus .global-menu-menus-item .global-menu-subMenus > a {
+#global-menu .global-menu-container .global-menu-menus .global-menu-menus-item .global-menu-subMenus ._subMenusWrap {
+  position: absolute;
+  display: inline-block;
+}
+#global-menu .global-menu-container .global-menu-menus .global-menu-menus-item .global-menu-subMenus ._subMenusWrap.right {
+  right: 0px!important;
+  left: auto!important;
+}
+#global-menu .global-menu-container .global-menu-menus .global-menu-menus-item .global-menu-subMenus ._subMenusWrap > a {
   display: inline-block;
   line-height: 45px;
   vertical-align: top;

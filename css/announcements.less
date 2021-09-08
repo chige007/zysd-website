@@ -17,8 +17,12 @@
                 height: 160px;
                 background-color: #fff;
                 padding: 20px;
-                .radius(3px);
+                border-top: 2px solid #fff;
+                .animation();
                 .boxShadow(0px 0px 5px #ccc);
+                &:hover{
+                    border-top: 2px solid @red;
+                }
                 ._title{
                     display: block;
                     height: 60px;
@@ -37,6 +41,7 @@
                         font-size: 14px;
                         text-decoration: none;
                         margin-right: 25px;
+                        .animation();
                         ._icon_1,
                         ._icon_2{
                             display: inline-block;
@@ -65,15 +70,16 @@
         text-align: center;
         ._pageItem{
             display: inline-block;
-            width: 35px;
-            height: 35px;
+            width: 32px;
+            height: 30px;
             text-align: center;
-            line-height: 35px;
+            line-height: 30px;
             color: #666;
             font-size: 12px;
             margin: 0px 6px;
             border: 1px solid #ddd;
             .radius(2px);
+            .animation();
             &:hover{
                 cursor: pointer;
                 color: @red;

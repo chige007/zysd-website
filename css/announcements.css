@@ -16,16 +16,20 @@
   height: 160px;
   background-color: #fff;
   padding: 20px;
-  border-radius: 3px;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
+  border-top: 2px solid #fff;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
   box-shadow: 0px 0px 5px #ccc;
   -webkit-box-shadow: 0px 0px 5px #ccc;
   -moz-box-shadow: 0px 0px 5px #ccc;
   -ms-box-shadow: 0px 0px 5px #ccc;
   -o-box-shadow: 0px 0px 5px #ccc;
+}
+#announcements ._list ._listItemWrap ._listItem:hover {
+  border-top: 2px solid #DC0315;
 }
 #announcements ._list ._listItemWrap ._listItem ._title {
   display: block;
@@ -46,6 +50,11 @@
   font-size: 14px;
   text-decoration: none;
   margin-right: 25px;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
 }
 #announcements ._list ._listItemWrap ._listItem ._buttons a ._icon_1,
 #announcements ._list ._listItemWrap ._listItem ._buttons a ._icon_2 {
@@ -71,10 +80,10 @@
 }
 #announcements ._pagination ._pageItem {
   display: inline-block;
-  width: 35px;
-  height: 35px;
+  width: 32px;
+  height: 30px;
   text-align: center;
-  line-height: 35px;
+  line-height: 30px;
   color: #666;
   font-size: 12px;
   margin: 0px 6px;
@@ -84,6 +93,11 @@
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
   -o-border-radius: 2px;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
 }
 #announcements ._pagination ._pageItem:hover {
   cursor: pointer;

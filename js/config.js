@@ -43,5 +43,25 @@ var GLOBAL_ANIMATION_CONFIG = {
     '#layer7BA8D7EF59FBFC8EA1AE536DB740C5E8': {
         animation: 'zysd-right-show',
         offset: -250
+    },
+    // 投资者联系
+    '#layer632C57C2029D53F7FEF94C94269733F8': {
+        animation: 'zysd-left-show',
+        offset: -200
+    },
+    // 招股文件
+    '#layer9C191C0D496152DE213B0A207CCF6B89': {
+        animation: 'zysd-up-show',
+        offset: -280
+    },
+    // 业绩报告
+    '#layerB74FBEC7684E61F3EAC3A477224101CD': {
+        animation: 'zysd-up-show',
+        offset: -300
+    },
+    // 公告及通函
+    '#layerA28CDA405A19232E80107CE8421FCCE3': {
+        animation: 'zysd-up-show',
+        offset: -800
     }
 }
