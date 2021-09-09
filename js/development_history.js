@@ -306,7 +306,7 @@ $(function(){
                     } else {
                         $(this).find('.development-history-content-month-event-bottom').click();
                     }
-                });;
+                });
         var scrolling = false;
         $(dom).find('.development-history-content-month-event-top').on('click', function (e) {
             e.preventDefault();

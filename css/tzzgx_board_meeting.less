@@ -1,24 +1,88 @@
 @import 'util.less';
 
-#tzzgx_board_meeting{
+.tzzgx_meeting{
+    .boxShadow(0px 0px 5px #ddd);
     ._item{
         ._title{
+            height: 55px;
+            line-height: 55px;
+            padding: 0px 20px;
+            cursor: pointer;
+            background-color: #fff;
+            .animation();
             ._name{
-
+                display: inline-block;
+                width: 200px;
+                font-size: 18px;
+                color: #333;
+                font-family: Arial;
             }
             ._position{
-                
+                display: inline-block;
+                font-size: 14px;
+                color: #666;
+                font-family: Arial;
             }
             ._arrow{
-            
+                float: right;
+                width: 16px;
+                margin-top: 22px;
+                display: inline-block;
+                &.toHide{
+                    display: none;
+                }
             }
         }
         ._body{
+            position: relative;
+            display: none;
             ._picture{
-
+                display: none;
+                position: absolute;
+                width: 200px;
+                top: 25px;
+                left: 25px;
             }
             ._introduce{
-                
+                padding: 25px;
+                font-size: 13px;
+                color: #666;
+                line-height: 24px;
+                max-height: 300px;
+                overflow-x: hidden;
+                overflow-y: auto;
+                font-family: Arial;
+            }
+            &.hasPic{
+                padding-left: 230px;
+                ._picture{
+                    display: block;
+                }
+            }
+        }
+        &:nth-child(odd){
+            ._title{
+                background-color: #F7F8FA;
+            }
+        }
+        &.show{
+            ._title{
+                background-color: #8A92A1;
+                ._name,
+                ._position{
+                    color: #fff;
+                }
+                ._arrow{
+                    &._toHide{
+                        display: inline-block;
+                    }
+                    &._toShow{
+                        display: none;
+                    }
+                }
+            }
+            ._body{
+                // display: block;
             }
         }
     }

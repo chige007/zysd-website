@@ -43,9 +43,10 @@ function openImgDialog (url) {
     if (typeof url === 'string') {
         url = [url];
     }
+    $('#employeeLifeDialog').remove();
     var imgList = '';
     for (var i = 0 ; i < url.length ; i++) {
-        imgClass = i === 0 ? 'active empPic' : 'empPic';
+        imgClass = i === 0 ? 'active _picture' : '_picture';
         imgList += '<img class="'+ imgClass +'" src="' + url[i] + '"/>'
     }
     var leftBtn = url.length > 1 ? '<div class="employeeLifeDialogLeftBtn disabled">'+
@@ -56,14 +57,12 @@ function openImgDialog (url) {
     '</div>' : '';
     var dialog = $('<div id="employeeLifeDialog">'+
         '<div class="employeeLifeDialogWrap">'+
-            '<div class="employeeLifeDialogBox">'+
-                '<div class="employeeLifeDialogCloseBtn">'+
-                    '<img src="https://pmt8e84ed-pic16.websiteonline.cn/upload/5y65.png"/>'+
-                '</div>'+
-                leftBtn+
-                rightBtn+
-                imgList+
+            '<div class="employeeLifeDialogCloseBtn">'+
+                '<img src="https://pmt8e84ed-pic16.websiteonline.cn/upload/5y65.png"/>'+
             '</div>'+
+            leftBtn+
+            rightBtn+
+            imgList+
         '</div>'+
     '</div>');
     $(dialog).find('.employeeLifeDialogCloseBtn').on('click', function () {
@@ -73,12 +72,12 @@ function openImgDialog (url) {
         if ($(this).hasClass('disabled')) {
             return;
         }
-        var activePic = $(dialog).find('.empPic.active');
-        var activeIndex = $(activePic).index('.empPic');
-        var imgLength = $(dialog).find('.empPic').length;
+        var activePic = $(dialog).find('._picture.active');
+        var activeIndex = $(activePic).index('._picture');
+        var imgLength = $(dialog).find('._picture').length;
         $(activePic).removeClass('active zysd-scale-show');
         activeIndex--;
-        $(dialog).find('.empPic').eq(activeIndex).addClass('active zysd-scale-show')
+        $(dialog).find('._picture').eq(activeIndex).addClass('active zysd-scale-show')
         if (activeIndex === 0) {
             $(this).addClass('disabled');
         }
@@ -88,16 +87,50 @@ function openImgDialog (url) {
         if ($(this).hasClass('disabled')) {
             return;
         }
-        var activePic = $(dialog).find('.empPic.active');
-        var activeIndex = $(activePic).index('.empPic');
-        var imgLength = $(dialog).find('.empPic').length;
+        var activePic = $(dialog).find('._picture.active');
+        var activeIndex = $(activePic).index('._picture');
+        var imgLength = $(dialog).find('._picture').length;
         $(activePic).removeClass('active zysd-scale-show');
         activeIndex++;
-        $(dialog).find('.empPic').eq(activeIndex).addClass('active zysd-scale-show')
+        $(dialog).find('._picture').eq(activeIndex).addClass('active zysd-scale-show')
         if (activeIndex === imgLength - 1) {
             $(this).addClass('disabled');
         }
         $(dialog).find('.employeeLifeDialogLeftBtn').removeClass('disabled');
+    });
+    $(dialog).find('._picture').on('mousewheel', function(event, delta){
+        event.preventDefault();
+        event.stopPropagation();
+        var delta = (event.originalEvent.wheelDelta && (event.originalEvent.wheelDelta > 0 ? 1 : -1)) ||  // chrome & ie
+                (event.originalEvent.detail && (event.originalEvent.detail > 0 ? -1 : 1));  
+        var dir = delta > 0 ? 'Up' : 'Down';
+        var scale = $(this).data('scale') || 1;
+        if (dir === 'Up' && scale < 4) {
+            if (scale > 4) return;
+            $(this).css('transform', 'scale('+ (scale + 0.1)  +')').data('scale', scale + 0.1);
+        } else if (scale > 0.25) {
+            var scale = $(this).data('scale') || 1;
+            $(this).css('transform', 'scale('+ (scale - 0.1)  +')').data('scale', scale - 0.1);
+        }
+    }).on('mousedown', function(e){
+        event.preventDefault();
+        event.stopPropagation();
+        console.log(e.offsetX, e.offsetY);
+        $(this).data('lock', false).data('offsetX', e.offsetX).data('offsetY', e.offsetY);
+    }).on('mouseup', function(e){
+        event.preventDefault();
+        event.stopPropagation();
+        $(this).data('lock', true);
+    }).on('mousemove', function(e){
+        event.preventDefault();
+        event.stopPropagation();
+        if ($(this).data('lock') === false) {
+            var x = e.offsetX - $(this).data('offsetX')
+            var y = e.offsetY - $(this).data('offsetY');
+            var translateX = $(this).data('translateX') || 0;
+            var translateY = $(this).data('translateY') || 0;
+            $(this).css('transform', 'translate('+(translateX + x)+'px, '+(translateY + y)+'px) scale('+($(this).data('scale') || 1)+')').data('translateX', translateX + x).data('translateY', translateY + y);
+        }
     });
     $('body').append(dialog);
     $(dialog).addClass('show');

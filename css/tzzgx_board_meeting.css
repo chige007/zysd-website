@@ -1,0 +1,84 @@
+.tzzgx_meeting {
+  box-shadow: 0px 0px 5px #ddd;
+  -webkit-box-shadow: 0px 0px 5px #ddd;
+  -moz-box-shadow: 0px 0px 5px #ddd;
+  -ms-box-shadow: 0px 0px 5px #ddd;
+  -o-box-shadow: 0px 0px 5px #ddd;
+}
+.tzzgx_meeting ._item ._title {
+  height: 55px;
+  line-height: 55px;
+  padding: 0px 20px;
+  cursor: pointer;
+  background-color: #fff;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+}
+.tzzgx_meeting ._item ._title ._name {
+  display: inline-block;
+  width: 200px;
+  font-size: 18px;
+  color: #333;
+  font-family: Arial;
+}
+.tzzgx_meeting ._item ._title ._position {
+  display: inline-block;
+  font-size: 14px;
+  color: #666;
+  font-family: Arial;
+}
+.tzzgx_meeting ._item ._title ._arrow {
+  float: right;
+  width: 16px;
+  margin-top: 22px;
+  display: inline-block;
+}
+.tzzgx_meeting ._item ._title ._arrow.toHide {
+  display: none;
+}
+.tzzgx_meeting ._item ._body {
+  position: relative;
+  display: none;
+}
+.tzzgx_meeting ._item ._body ._picture {
+  display: none;
+  position: absolute;
+  width: 200px;
+  top: 25px;
+  left: 25px;
+}
+.tzzgx_meeting ._item ._body ._introduce {
+  padding: 25px;
+  font-size: 13px;
+  color: #666;
+  line-height: 24px;
+  max-height: 300px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: Arial;
+}
+.tzzgx_meeting ._item ._body.hasPic {
+  padding-left: 230px;
+}
+.tzzgx_meeting ._item ._body.hasPic ._picture {
+  display: block;
+}
+.tzzgx_meeting ._item:nth-child(odd) ._title {
+  background-color: #F7F8FA;
+}
+.tzzgx_meeting ._item.show ._title {
+  background-color: #8A92A1;
+}
+.tzzgx_meeting ._item.show ._title ._name,
+.tzzgx_meeting ._item.show ._title ._position {
+  color: #fff;
+}
+.tzzgx_meeting ._item.show ._title ._arrow._toHide {
+  display: inline-block;
+}
+.tzzgx_meeting ._item.show ._title ._arrow._toShow {
+  display: none;
+}
