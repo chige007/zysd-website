@@ -1,4 +1,4 @@
-var GLOBAL_DATA_BANNER_HEIGHT = 500;
+var GLOBAL_DATA_BANNER_HEIGHT = 450;
 var GLOBAL_SCROLLER = $('#scroll_container');
 var GLOBAL_ANIMATION_CONFIG = {
     // 滚动数字

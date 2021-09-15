@@ -1,0 +1,55 @@
+#layerA6CFA8C90C2A57A81815032AC8A23F47 .full_width {
+  height: 400px;
+  background-image: url(http://pmt8e84ed.pic16.websiteonline.cn/upload/4kjm.png);
+  background-position: 0% 97%;
+  background-repeat: repeat-x;
+  -webkit-animation-name: water-animation;
+  animation-name: water-animation;
+  -webkit-animation-duration: 25s;
+  animation-duration: 25s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+  -webkit-animation-iteration-count: ease-in-out;
+  animation-iteration-count: ease-in-out;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+  -webkit-animation-fill-mode: backwards;
+  animation-fill-mode: backwards;
+  -webkit-animation-direction: normal;
+  animation-direction: normal;
+}
+@keyframes water-animation {
+  0% {
+    background-position: 0% 97%;
+  }
+  10% {
+    background-position: 10% 100%;
+  }
+  20% {
+    background-position: 20% 97%;
+  }
+  30% {
+    background-position: 30% 100%;
+  }
+  40% {
+    background-position: 40% 97%;
+  }
+  50% {
+    background-position: 50% 100%;
+  }
+  60% {
+    background-position: 60% 97%;
+  }
+  70% {
+    background-position: 70% 100%;
+  }
+  80% {
+    background-position: 80% 97%;
+  }
+  90% {
+    background-position: 90% 100%;
+  }
+  100% {
+    background-position: 100% 97%;
+  }
+}

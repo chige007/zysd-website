@@ -1,500 +1,501 @@
+var employeeLifeData = {
+    '2021': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2020': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2019': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2018': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2017': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2016': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2015': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2014': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2013': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2012': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ],
+    '2011': [
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
+        ]],
+        ['生日会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
+        ]],
+        ['拓展活动', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
+        ]],
+        ['元宵节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
+        ]],
+        ['女神节', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
+        ]],
+        ['羽毛球比赛', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
+        ]],
+        ['年会', [
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
+            'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
+        ]]
+    ]
+}
+
 $(function(){
-    var data = {
-        '2021': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2020': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2019': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2018': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2017': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2016': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2015': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2014': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2013': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2012': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ],
-        '2011': [
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/q89h.png'
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mfr.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3y8d.png'
-            ]],
-            ['生日会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/gbuf.png'
-            ]],
-            ['拓展活动', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/kczy.png',
-            ]],
-            ['元宵节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/lrlc.png',
-            ]],
-            ['女神节', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/2avk.png',
-            ]],
-            ['羽毛球比赛', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/3mea.png'
-            ]],
-            ['年会', [
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png',
-                'https://pmt8e84ed-pic16.websiteonline.cn/upload/b4q9.png'
-            ]]
-        ]
-    }
 
     var yearWidth = 120;
     var timeline = $('#employee-life .employee-life-timeline-years').eq(0);
@@ -540,8 +541,8 @@ $(function(){
         });
     };
 
-    for (var i in data) {
-        var yearPics = data[i];
+    for (var i in employeeLifeData) {
+        var yearPics = employeeLifeData[i];
         var year = $('<div class="employee-life-timeline-year '+ i +'" data-year="'+ i +'">'+ i +'</div>').on('click', function () {
             setActive($(this).data('year'));
         });
