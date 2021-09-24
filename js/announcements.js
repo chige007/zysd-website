@@ -1560,8 +1560,8 @@ $(function(){
             yearArray.push(year);
         }
         return $('<div class="_listItem">'+
-                    '<p class="_title" title="'+ data.title +'">'+data.title+'</p>'+
                     '<p class="_date">'+data.date+'</p>'+
+                    '<p class="_title" title="'+ data.title +'">'+data.title+'</p>'+
                     '<div class="_buttons">'+
                         '<a href="'+data.cn+'" target="_blank"><img class="_icon_1" src="https://pmt8e84ed-pic16.websiteonline.cn/upload/7psq.png"/><img class="_icon_2" src="https://pmt8e84ed-pic16.websiteonline.cn/upload/zuka.png"/>中文下载</a>'+
                         '<a href="'+data.en+'" target="_blank"><img class="_icon_1" src="https://pmt8e84ed-pic16.websiteonline.cn/upload/7psq.png"/><img class="_icon_2" src="https://pmt8e84ed-pic16.websiteonline.cn/upload/zuka.png"/>英文下载</a>'+

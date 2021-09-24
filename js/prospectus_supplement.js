@@ -4,6 +4,7 @@ var prospectus_supplement = {
         '2015': [
             {
                 name: '截止2015年12月31日止年度业绩公告',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2015-1.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2015-2.pdf',
                 date: '2016年3月28日'
@@ -12,12 +13,14 @@ var prospectus_supplement = {
         '2016': [
             {
                 name: '截至2016年6月30日止六个月之中期业绩报告',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2016-1.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2016-1-2.pdf',
                 date: '2016年8月25日'
             },
             {
                 name: '截至2016年12月31日止年度年度业绩公佈',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2016-2.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2016-2-2.pdf',
                 date: '2017年3月28日'
@@ -26,12 +29,14 @@ var prospectus_supplement = {
         '2017': [
             {
                 name: '截至2017年6月30日止六个月之中期业绩公告',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2017-1.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2017-1-2.pdf',
                 date: '2017年8月28日'
             },
             {
                 name: '截至2017年12月31日止年度年度業績公佈',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2017-2.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2017-2-2.pdf',
                 date: '2017年3月28日'
@@ -40,12 +45,14 @@ var prospectus_supplement = {
         '2018': [
             {
                 name: '截至2018年6月30日止六個月之中期業績公告',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2018-1.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2018-1-2.pdf',
                 date: '2018年8月28日'
             },
             {
                 name: '截至2018年12月31日止年度 年度業績公佈',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2018-2.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2018-2-2.pdf',
                 date: '2019年3月18日'
@@ -54,12 +61,14 @@ var prospectus_supplement = {
         '2019': [
             {
                 name: '截至2019年6月30日止六個月之中期業績公告',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2019-1.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2019-1-2.pdf',
                 date: '2019年8月28日'
             },
             {
                 name: '截至2019年12月31日止年度年度業績公佈',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2019-2.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2019-2-2.pdf',
                 date: '2020年3月25日'
@@ -68,12 +77,14 @@ var prospectus_supplement = {
         '2020': [
             {
                 name: '截至2020年6月30日止六個月之中期業績公告',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2020-1.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2020-1-2.pdf',
                 date: '2020年8月13日'
             },
             {
                 name: '截至2020年12月31日止年度年度業績公佈',
+                cover: '',
                 cn: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2020-2.pdf',
                 en: 'https://pmt8e84ed-pic16.websiteonline.cn/upload/yjbg-2020-2-2.pdf',
                 date: '2021年3月26日'

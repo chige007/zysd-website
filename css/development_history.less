@@ -157,3 +157,90 @@
         }
     }
 }
+@media screen and ( max-width: 540px ) {
+    #development-history{
+        height: 100%;
+        padding: 12px;
+        padding-top: 0px;
+        .development-history-content{
+            height: 380px;
+            overflow: hidden;
+            white-space: nowrap;
+            .development-history-content-year-event{
+                width: 100%;
+                padding: 30px 20px;
+                background-size: cover;
+                .development-history-content-year-event-title{
+                    font-size: 15px;
+                    margin-bottom: 4px;
+                    padding-left: 0px;
+                }
+                .development-history-content-month-event-top,
+                .development-history-content-month-event-bottom{
+                    display: none;
+                }
+                .development-history-content-month-event-wrap{
+                    height: 280px;
+                    overflow: hidden;
+                    overflow-y: auto;
+                    margin-top: 15px;
+                    .development-history-content-month-event{
+                        padding: 8px 0px;
+                        .development-history-content-month-event-left{
+                            display: block;
+                            font-size: 13px;
+                            width: 100%;
+                        }
+                        .development-history-content-month-event-right{
+                            display: block;
+                            font-size: 10px;
+                            width: 100%;
+                            line-height: 18px;
+                            white-space: normal;
+                            word-break: break-all;
+                        }
+                    }
+                }
+                &.active{
+                    z-index: 9;
+                    .boxShadow(0px 0px 0px #333);
+                    .transform(scale(1)); 
+                }
+                &.active-left{
+                    .transform(scale(0.75) translateX(-300px));
+                }
+                &.active-right{
+                    .transform(scale(0.75) translateX(300px));
+                }
+            }
+        }
+        .development-history-timeline{
+            height: 60px;
+            .development-history-timeline-line{
+                top: 40px;
+            }
+            .development-history-timeline-dot-wrap{
+                height: 100%;
+                width: 100%;
+                z-index: 1;
+                .animation(.4s);
+                white-space: nowrap;
+                overflow: hidden;
+                overflow-x: auto;
+                .development-history-timeline-dot{
+                    padding-top: 10px;
+                    >p{
+                    }
+                    >div{
+                        margin-top: 11px;
+                    }
+                    &.active{
+                        >div{
+                            margin-top: 7px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+@import './util.less';
+
+#abouts_menu{
+    overflow-y: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+    a{
+        display: inline-block;
+        margin: 0px 12px;
+        height: 40px;
+        line-height: 40px;
+        color: #666;
+        text-align: center;
+        font-size: 11px;
+        text-decoration: none;
+        &.active{
+            color: @red;
+            border-bottom: 1px solid @red;
+        }
+    }
+}
