@@ -32,6 +32,8 @@ $(function(){
     setActiveStyle(activeMenu)
     if (typeof GLOBAL_SCROLLER !== 'undefined') {
         $(GLOBAL_SCROLLER).on('scroll', function() {
+            var GLOBAL_NO_HIDE_TOP_MENU = window.GLOBAL_NO_HIDE_TOP_MENU || false;
+            if (GLOBAL_NO_HIDE_TOP_MENU) return;
             var myScrollTop = $(GLOBAL_SCROLLER)[0].scrollTop || 0;
             if (myScrollTop > 60) {
                 $('#global-menu').addClass('hide');
@@ -53,4 +55,10 @@ $(function(){
     $(window).resize(function(){
         setActiveStyle(activeMenu);
     });
+
+    setTimeout(function () {
+        if (window.GLOBAL_NO_HIDE_TOP_MENU) {
+            $('#global-menu').addClass('dark');
+        }
+    }, 0);
 });

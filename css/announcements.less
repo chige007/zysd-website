@@ -15,14 +15,23 @@
             font-size: 13px;
             color: #666;
             border: 1px solid #ddd;
+            font-weight: bold;
             .radius(3px);
             &.active{
                 border-color: @red;
-                color: @red;
+                color: #fff;
+                background-color: @red;
+                &:hover{
+                    border-color: @red;
+                    color: #fff;
+                    background-color: @red;
+                }
             }
             &:hover{
                 cursor: pointer;
                 color: @red;
+                border-color: @red;
+                background-color: lighten(@red, 50%);
             }
         }
     }

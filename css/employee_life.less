@@ -1,16 +1,5 @@
 @import 'util.less';
 
-
-.MY-CODE,
-.MY-CODE *{
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-    position: relative;
-    line-height: 1;
-	font-family: Arial, Helvetica, sans-serif!important;
-}
-
 #layerA63D0C9F29AD106E9727B8D2EFA9F69C{
     >.wp-advhtml_content{
         height: auto!important;
@@ -207,6 +196,51 @@
             }
             &.active{
                 display: block;
+            }
+        }
+    }
+
+    @media screen and ( max-width: 540px ) {
+        .employee-life-timeline{
+            height: 35px;
+            padding: 0px 35px;
+            .employee-life-timeline-years{
+                .employee-life-timeline-year{
+                    height: 35px;
+                    line-height: 35px;
+                    width: 65px;
+                    font-size: 12px;
+                    &.active{
+                        font-size: 13px;
+                    }
+                }
+            }
+            .employee-life-timeline-left,
+            .employee-life-timeline-right{
+                height: 21px;
+                .zysd-default{
+                    height: 20px;
+                }
+                .zysd-active{
+                    height: 20px;
+                }
+            }
+        }
+        .employee-life-pics{
+            padding-top: 25px;
+            .employee-life-pics-wrap{
+                .employee-life-pics-wrap-pic{
+                    width: 50%;
+                    margin-bottom: 20px;
+                    >p{
+                        font-size: 13px;
+                        padding: 10px 0px;
+                    }
+                    &:after{
+                        height: 1px;
+                        width: 40px;
+                    }
+                }
             }
         }
     }

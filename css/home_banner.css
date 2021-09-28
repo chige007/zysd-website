@@ -1,3 +1,6 @@
+#scroll_container {
+  overflow-x: hidden;
+}
 #layerA0C6FB8C7A68C2037CB77488DCFBD1B4 .full_width {
   transform: scale(1.4);
   -ms-transform: scale(1.4);

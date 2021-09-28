@@ -498,6 +498,9 @@ var employeeLifeData = {
 $(function(){
 
     var yearWidth = 120;
+    if (document.body.clientWidth < 540) {
+        yearWidth = 65;
+    }
     var timeline = $('#employee-life .employee-life-timeline-years').eq(0);
     var leftBtn = $('#employee-life .employee-life-timeline-left').eq(0);
     var rightBtn = $('#employee-life .employee-life-timeline-right').eq(0);
@@ -528,7 +531,7 @@ $(function(){
         if (rolling) return;
         rolling = true;
         var scrollLeft = $(timeline)[0].scrollLeft;
-        $(timeline).animate({'scrollLeft': (scrollLeft - 120) + 'px'}, 300, function(){
+        $(timeline).animate({'scrollLeft': (scrollLeft - yearWidth) + 'px'}, 300, function(){
             rolling = false
         });
     };
@@ -536,7 +539,7 @@ $(function(){
         if (rolling) return;
         rolling = true;
         var scrollLeft = $(timeline)[0].scrollLeft;
-        $(timeline).animate({'scrollLeft': (scrollLeft + 120) + 'px'}, 300, function(){
+        $(timeline).animate({'scrollLeft': (scrollLeft + yearWidth) + 'px'}, 300, function(){
             rolling = false
         });
     };

@@ -15,6 +15,7 @@
   font-size: 13px;
   color: #666;
   border: 1px solid #ddd;
+  font-weight: bold;
   border-radius: 3px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -23,11 +24,19 @@
 }
 #announcements ._yearFilter ._yearItem.active {
   border-color: #DC0315;
-  color: #DC0315;
+  color: #fff;
+  background-color: #DC0315;
+}
+#announcements ._yearFilter ._yearItem.active:hover {
+  border-color: #DC0315;
+  color: #fff;
+  background-color: #DC0315;
 }
 #announcements ._yearFilter ._yearItem:hover {
   cursor: pointer;
   color: #DC0315;
+  border-color: #DC0315;
+  background-color: #ffdfe2;
 }
 #announcements ._list {
   overflow: hidden;

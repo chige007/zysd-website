@@ -120,7 +120,35 @@
 	}
 	&.show{
 		.moves(zysd-scale-show-animation, .4s, ease-out, 1, 0s, backwards);
-	}
+    }
+    
+
+    @media screen and ( max-width: 540px ) {
+        .employeeLifeDialogWrap{
+            padding: 40px;
+            >img{
+                border: none;
+            }
+            .employeeLifeDialogCloseBtn{
+                top: 15px;
+                right: 15px;
+                img{
+                    height: 20px;
+                    width: 20px;
+                }
+            }
+            .employeeLifeDialogLeftBtn{
+                left: 12px;
+                height: 25px;
+                width: 25px;
+            }
+            .employeeLifeDialogRightBtn{
+                right: 12px;
+                height: 25px;
+                width: 25px;
+            }
+        }
+    }
 }
 
 @keyframes zysd-up-show-animation {
