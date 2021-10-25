@@ -130,3 +130,102 @@ body {
 #prospectus_supplement ._reports ._reportWrap.active {
   display: flex;
 }
+@media screen and (max-width: 540px) {
+  #prospectus_supplement {
+    padding-top: 10px;
+  }
+  #prospectus_supplement ._timeline {
+    width: 100%;
+  }
+  #prospectus_supplement ._timeline ._line {
+    top: 25px;
+    left: -100px;
+    right: -100px;
+  }
+  #prospectus_supplement ._timeline ._timeItems ._timeItem {
+    width: 50px;
+  }
+  #prospectus_supplement ._timeline ._timeItems ._timeItem p {
+    font-size: 9px;
+    height: 18px;
+    top: 0px;
+  }
+  #prospectus_supplement ._timeline ._timeItems ._timeItem img {
+    width: 16px;
+  }
+  #prospectus_supplement ._timeline ._timeItems ._timeItem.active p {
+    font-size: 11px;
+    top: -2px;
+  }
+  #prospectus_supplement ._reports {
+    margin-top: 32px;
+    padding-top: 0px;
+    height: 450px;
+  }
+  #prospectus_supplement ._reports ._reportWrap {
+    width: 100%;
+    margin-bottom: 20px;
+    display: none;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report {
+    display: block;
+    width: 94%;
+    margin: 0px auto;
+    height: 128px;
+    box-shadow: 0px 0px 3px #ddd;
+    -webkit-box-shadow: 0px 0px 3px #ddd;
+    -moz-box-shadow: 0px 0px 3px #ddd;
+    -ms-box-shadow: 0px 0px 3px #ddd;
+    -o-box-shadow: 0px 0px 3px #ddd;
+    padding-left: 100px;
+    margin-bottom: 12px;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100px;
+    height: 128px;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report ._content {
+    float: left;
+    padding: 12px;
+    width: 100%;
+    height: 100%;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report ._content ._title {
+    display: block;
+    font-size: 13px;
+    color: #333;
+    word-break: break-all;
+    line-height: 18px;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report ._content ._line {
+    height: 1px;
+    background-color: #DC0315;
+    width: 50px;
+    margin-top: 6px;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report ._content ._date {
+    color: #999;
+    font-size: 10px;
+    margin-top: 12px;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report ._content ._buttons {
+    bottom: 15px;
+  }
+  #prospectus_supplement ._reports ._reportWrap ._report ._content ._buttons a {
+    font-size: 10px;
+    padding: 4px 8px;
+    line-height: 1;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    margin-right: 10px;
+  }
+  #prospectus_supplement ._reports ._reportWrap.active {
+    display: block;
+  }
+}

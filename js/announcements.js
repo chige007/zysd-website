@@ -52,7 +52,7 @@ var announcements = {
     {
         "title": "截至二零二一年六月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-7-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-7-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-7-2-y.pdf",
         "date": "2021-7-2"
     },
     {
@@ -70,19 +70,19 @@ var announcements = {
     {
         "title": "董事名單及其角色及職能",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-6-y.pdf",
         "date": "2021-6-6"
     },
     {
         "title": "於2021年6月4日舉行的 2020年度股東週年大會表決結果； 派發2020年末期股息",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4-3.pdf",
         "date": "2021-6-4"
     },
     {
         "title": "於2021年6月4日舉行的股東特別大會表決結果； 變更註冊辦事處； 修訂公司章程； 選舉董事及監事； 董事委員會組成變動",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-4-2.pdf",
         "date": "2021-6-4"
     },
     {
@@ -94,25 +94,25 @@ var announcements = {
     {
         "title": "截至二零二一年五月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-6-2-y.pdf",
         "date": "2021-6-2"
     },
     {
         "title": "於2021年6月4日舉行之股東特別大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13-3-y.pdf",
         "date": "2021-5-13"
     },
     {
         "title": "建議變更註冊辦事處、 建議修訂公司章程、 建議選舉董事及監事、 董事和監事津貼建議 及 股東特別大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13-2.pdf",
         "date": "2021-5-13"
     },
     {
         "title": "股東特別大會通告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-13-y.pdf",
         "date": "2021-5-13"
     },
     {
@@ -124,7 +124,7 @@ var announcements = {
     {
         "title": "截至二零二一年四月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-6-y.pdf",
         "date": "2021-5-6"
     },
     {
@@ -135,26 +135,26 @@ var announcements = {
     },
     {
         "title": "於2021年6月4日舉行之2020年股東週年大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4-2y.pdf",
         "date": "2021-5-4"
     },
     {
         "title": "2020年度股東週年大會通告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-5-4-y.pdf",
         "date": "2021-5-4"
     },
     {
         "title": "2020年度報告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-4-19.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-4-19.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-4-19-y.pdf",
         "date": "2021-4-19"
     },
     {
         "title": "截至二零二一年三月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-4-1.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-4-1.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-4-1-y.pdf",
         "date": "2021-4-1"
     },
     {
@@ -208,37 +208,37 @@ var announcements = {
     {
         "title": "在香港的主要營業地址之變更",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-3-8.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-3-8.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-3-8-y.pdf",
         "date": "2021-3-8"
     },
     {
         "title": "截至二零二一年二月二十八日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-3-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-3-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-3-2-y.pdf",
         "date": "2021-3-2"
     },
     {
         "title": "變更所得款項之預期使用時間",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-2-8.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-2-8.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-2-8-y.pdf",
         "date": "2021-2-8"
     },
     {
         "title": "截至二零二一年一月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-2-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-2-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-2-2-y.pdf",
         "date": "2021-2-2"
     },
     {
         "title": "董事名單及其角色及職能",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29-2.pdf",
         "date": "2021-1-29"
     },
     {
         "title": "於2021年1月29日舉行的股東特別大會表決結果； 選舉非執行董事； 董事委員會組成變動；及 修訂《董事、監事津貼制度》 ",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-29-y.pdf",
         "date": "2021-1-29"
     },
     {
@@ -261,8 +261,8 @@ var announcements = {
     },
     {
         "title": "董事名單及其角色及職能",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-7.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-7.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-7-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-7-2.pdf",
         "date": "2021-1-7"
     },
     {
@@ -273,8 +273,8 @@ var announcements = {
     },
     {
         "title": "董事名單及其角色及職能",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-5.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-5.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-5-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-5-2.pdf",
         "date": "2021-1-5"
     },
     {
@@ -286,91 +286,91 @@ var announcements = {
     {
         "title": "截至二零二零年十二月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2021-1-4-y.pdf",
         "date": "2021-1-4"
     },
     {
         "title": "有關收到補助的公告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-12-18.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-12-18.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-12-18-y.pdf",
         "date": "2020-12-18"
     },
     {
         "title": "截至二零二零年十一月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-12-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-12-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-12-2-y.pdf",
         "date": "2020-12-2"
     },
     {
         "title": "向中國專業投資者公開發行境內公司債券獲得中國證監會註冊批覆",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-11-24.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-11-24.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-11-24-y.pdf",
         "date": "2020-11-24"
     },
     {
         "title": "截至二零二零年十月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-11-3.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-11-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-11-3-y.pdf",
         "date": "2020-11-3"
     },
     {
         "title": "於2020年10⽉29⽇舉⾏的股東特別⼤會表決結果",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-29.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-29-y.pdf",
         "date": "2020-10-29"
     },
     {
         "title": "於2020年10月29日舉行之股東特別大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7-3.pdf",
         "date": "2020-10-7"
     },
     {
         "title": "股東特別大會通告 ",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7-2y.pdf",
         "date": "2020-10-7"
     },
     {
         "title": "(1)有關出售廣東耀達股權之須予披露及關連交易；及 (2)股東特別大會通告 ",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-7-y.pdf",
         "date": "2020-10-7"
     },
     {
         "title": "截至二零二零年九月三十日止股份發行人的證券變動月報表 ",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-5.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-5.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-10-5-y.pdf",
         "date": "2020-10-5"
     },
     {
         "title": "延遅寄發通函",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-29.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-29-y.pdf",
         "date": "2020-9-29"
     },
     {
         "title": "1)有關出售廣東耀達股權之須予披露及關連交易；及(2)有關該公告的澄清",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-7.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-7.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-7-y.pdf",
         "date": "2020-9-7"
     },
     {
         "title": "截至二零二零年八月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-9-2-y.pdf",
         "date": "2020-9-2"
     },
     {
         "title": "於2020年8月28日舉行的股東特別大會表決結果",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-28.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-28.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-28-y.pdf",
         "date": "2020-8-28"
     },
     {
         "title": "有關提供2020年擔保的關連交易.pdf",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-24.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-24.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-24-y.pdf",
         "date": "2020-8-24"
     },
     {
@@ -381,14 +381,14 @@ var announcements = {
     },
     {
         "title": "董事名單及其角色及職能",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17-2y.pdf",
         "date": "2020-8-17"
     },
     {
         "title": "非執行董事及董事會專門委員會成員辭任",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-17-y.pdf",
         "date": "2020-8-17"
     },
     {
@@ -399,50 +399,50 @@ var announcements = {
     },
     {
         "title": "於2020年8月28日舉行之股東特別大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9-3.pdf",
         "date": "2020-8-9"
     },
     {
         "title": "股東特別大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9-2y.pdf",
         "date": "2020-8-9"
     },
     {
         "title": " (1) 建議於中國發行境內公司債券；及 (2) 股東特別大會通告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-9-y.pdf",
         "date": "2020-8-9"
     },
     {
         "title": "董事會召開日期",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3-2y.pdf",
         "date": "2020-8-3"
     },
     {
         "title": "截至二零二零年七月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-8-3-y.pdf",
         "date": "2020-8-3"
     },
     {
         "title": "內幕消息 - 有關潛在出售廣東耀達股權之 可能須予披露交易",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-7-31.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-7-31.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-7-31-y.pdf",
         "date": "2020-7-31"
     },
     {
         "title": "截至二零二零年六月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-7-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-7-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-7-2-y.pdf",
         "date": "2020-7-2"
     },
     {
         "title": "2019年度股東週年大會； H股類別股東大會及 內資股類別股東大會表決結果； 派發2019年末期股息",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-29-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-29-2.pdf",
         "date": "2020-6-29"
     },
     {
@@ -454,67 +454,67 @@ var announcements = {
     {
         "title": "建議於中國發行境内公司債券",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-18.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-18.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-18-y.pdf",
         "date": "2020-6-18"
     },
     {
         "title": "截至二零二零年五月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-1.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-1.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-6-1-y.pdf",
         "date": "2020-6-1"
     },
     {
         "title": "於2020年6月29日舉行之內資股類別股東大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-10.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-10.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "於2020年6月29日舉行之內資股類別股東大會出席確認回條",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-9.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-9.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "於2020年6月29日舉行之H股類別股東大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-8.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-8.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "於2020年6月29日舉行之 H股類別股東大會 出席確認回條 ",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-7.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-7.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "於2020年6月29日舉行之 2019年度股東週年大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-6.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "於2020年6月29日舉行之 2019年度股東週年大會 出席確認回條",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-5.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-5.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "內資股類別股東大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-4.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "H股類別股東大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-3.pdf",
         "date": "2020-5-14"
     },
     {
         "title": "2019年度股東週年大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-14-2.pdf",
         "date": "2020-5-14"
     },
     {
@@ -525,20 +525,20 @@ var announcements = {
     },
     {
         "title": "內幕消息 - (1) 潛在出售廣東耀達融資租賃有限公司股權；及(2) 所得款項用途之變動",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8-2.pdf",
         "date": "2020-5-8"
     },
     {
         "title": "建議修訂 (I)公司章程及(II)股東大會議事規則",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-8-y.pdf",
         "date": "2020-5-8"
     },
     {
         "title": "截至二零二零年四月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-5-6-y.pdf",
         "date": "2020-5-6"
     },
     {
@@ -550,19 +550,19 @@ var announcements = {
     {
         "title": "自願公告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-9.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-9.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-9-y.pdf",
         "date": "2020-4-9"
     },
     {
         "title": "延遲股東週年大會 變更暫停辦理股份過戶登記期間 以及末期股息派付日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-8.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-8.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-8-y.pdf",
         "date": "2020-4-8"
     },
     {
         "title": "截至二零二零年三月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-1.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-1.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-4-1-y.pdf",
         "date": "2020-4-1"
     },
     {
@@ -574,19 +574,19 @@ var announcements = {
     {
         "title": "董事會召開日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-3-13.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-3-13.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-3-13-y.pdf",
         "date": "2020-3-13"
     },
     {
         "title": "截至二零二零年二月二十九日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-3-3.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-3-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-3-3-y.pdf",
         "date": "2020-3-3"
     },
     {
         "title": "截至二零二零年一月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-2-3.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-2-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2020-2-3-y.pdf",
         "date": "2020-2-3"
     },
     {
@@ -598,19 +598,19 @@ var announcements = {
     {
         "title": "於2019年12月27日舉行的 股東特別大會 表決結果",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-27.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-27.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-27-y.pdf",
         "date": "2019-12-27"
     },
     {
         "title": "有關提供擔保的須予披露交易",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2-2y.pdf",
         "date": "2019-12-2"
     },
     {
         "title": "截至二零一九年十一月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-12-2-y.pdf",
         "date": "2019-12-2"
     },
     {
@@ -621,20 +621,20 @@ var announcements = {
     },
     {
         "title": "股東特別大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12-3.pdf",
         "date": "2019-11-12"
     },
     {
         "title": "於2019年12月27日舉行之股東特別大會出席確認回條",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12-2.pdf",
         "date": "2019-11-12"
     },
     {
         "title": "於2019年12月27日舉行之股東特別大會適用之代理委託書",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-11-12-y.pdf",
         "date": "2019-11-12"
     },
     {
@@ -904,7 +904,7 @@ var announcements = {
     {
         "title": "截至二零一八年十二月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-1-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-1-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2019-1-2-y.pdf",
         "date": "2019-1-2"
     },
     {
@@ -1120,121 +1120,121 @@ var announcements = {
     {
         "title": "內幕消息 - 延遲(I)投資者認購協議；及(II)配售協議的截止日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-12-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-12-29.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-12-29-y.pdf",
         "date": "2017-12-29"
     },
     {
         "title": "截至二零一七年十一月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-12-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-12-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-12-4-y.pdf",
         "date": "2017-12-4"
     },
     {
         "title": "内幕消息",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-17.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-17.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-17-2y.pdf",
         "date": "2017-11-17"
     },
     {
         "title": "于2017年11月17日举行的临时股东大会、内资股类别股东大会及H股类别股东大会表决结果",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-17.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-17.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-17-y.pdf",
         "date": "2017-11-17"
     },
     {
         "title": "内幕消息",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-2-y.pdf",
         "date": "2017-11-2"
     },
     {
         "title": "截至二零一七年十月三十一日止股份发行人的证券变动月报表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-1.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-1.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-11-1-y.pdf",
         "date": "2017-11-1"
     },
     {
         "title": "截至二零一七年九月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-10-9.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-10-9.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-10-9-y.pdf",
         "date": "2017-10-9"
     },
     {
         "title": "(I) 建议根据特别授权发行投资者认购股份；(II) 建议根据特别授权发行管理层认购股份及涉及根据特别授权向关连人士建议发行管理层认购股份的关连交易；(III) 根据特别授权配售新H股；(IV) 建议修订公司章程；及(V) 临时股东大会、H股类别股东大会及内资股类别股东大会通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-11.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-11.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "临时股东大会通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-10.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-10.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "H股类别股东大会通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-9.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-9.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "内资股类别股东大会通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-8.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-8.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "于2017年11月17日举行之临时股东大会适用之代理委託书",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-7.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-7.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "于2017年11月17日举行之H股类别股东大会适用之代理委託书",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-6.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "于2017年11月17日举行之内资股类别股东大会适用之代理委託书",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-5.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-5.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "于2017年11月17日举行之临时股东大会出席确认回条",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-4.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "于2017年11月17日举行之H股类别股东大会出席确认回条",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-3.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "于2017年11月17日举行之内资股类别股东大会出席确认回条",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-2.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "補充配售協議擬於2017年11月17日舉行的臨時股東大會及類別股東大會的暫停辦理股份過戶登記期間",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-29-y.pdf",
         "date": "2017-9-29"
     },
     {
         "title": "截至二零一七年八月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-4-2y.pdf",
         "date": "2017-9-4"
     },
     {
         "title": "2017中期报告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-9-4-y.pdf",
         "date": "2017-9-4"
     },
     {
@@ -1246,31 +1246,31 @@ var announcements = {
     {
         "title": "董事会召开日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-8-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-8-14.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-8-14-y.pdf",
         "date": "2017-8-14"
     },
     {
         "title": "截至二零一七年七月三十一日止股份发行人的证券变动月报表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-8-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-8-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-8-2-y.pdf",
         "date": "2017-8-2"
     },
     {
         "title": "内幕消息",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-26.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-26.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-26-y.pdf",
         "date": "2017-7-26"
     },
     {
         "title": "根据特别授权配售新H股",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-18.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-18.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-18-y.pdf",
         "date": "2017-7-18"
     },
     {
         "title": "截至二零一七年六月三十日止股份发行人的证券变动月报表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-7-4-y.pdf",
         "date": "2017-7-4"
     },
     {
@@ -1282,19 +1282,19 @@ var announcements = {
     {
         "title": "2016年度股东周年大会表决结果及派发末期股息",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-6-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-6-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-6-6-y.pdf",
         "date": "2017-6-6"
     },
     {
         "title": "截至二零一七年五月三十一日止股份发行人的证券变动月报表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-6-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-6-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-6-2-y.pdf",
         "date": "2017-6-2"
     },
     {
         "title": "建议投资者认购事项、建议管理层认购事项及建议根据特别授权发行投资者认购股份及管理层认购股份的最新情况",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-5-25.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-5-25.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-5-25-y.pdf",
         "date": "2017-5-25"
     },
     {
@@ -1306,37 +1306,37 @@ var announcements = {
     {
         "title": "截至二零一七年四月三十日止股份发行人的证券变动月报表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-5-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-5-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-5-2-y.pdf",
         "date": "2017-5-2"
     },
     {
         "title": "2016年度股东周年大会通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-4y.pdf",
         "date": "2017-4-20"
     },
     {
         "title": "2016年度股东周年大会代理委托书",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-3y.pdf",
         "date": "2017-4-20"
     },
     {
         "title": "2016年度股东周年大会出席确认回条",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-2y.pdf",
         "date": "2017-4-20"
     },
     {
         "title": "2016年度报告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-20-y.pdf",
         "date": "2017-4-20"
     },
     {
         "title": "截至二零一七年三月三十一日止股份发行人的证券变动月报表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-4-6y.pdf",
         "date": "2017-4-6"
     },
     {
@@ -1348,61 +1348,61 @@ var announcements = {
     {
         "title": "董事会召开日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-3-15.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-3-15.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-3-15-y.pdf",
         "date": "2017-3-15"
     },
     {
         "title": "截至二零一七年二月二十八日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-3-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-3-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-3-6-y.pdf",
         "date": "2017-3-6"
     },
     {
         "title": "截至二零一七年一月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-2-1.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-2-1.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-2-1-y.pdf",
         "date": "2017-2-1"
     },
     {
         "title": "截至二零一六年十二月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-1-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-1-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2017-1-4-y.pdf",
         "date": "2017-1-4"
     },
     {
         "title": "截至二零一六年十一月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-12-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-12-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-12-2-y.pdf",
         "date": "2016-12-2"
     },
     {
         "title": "截至二零一六年十月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-11-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-11-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-11-2-y.pdf",
         "date": "2016-11-2"
     },
     {
         "title": "截至二零一六年九月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-10-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-10-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-10-6-y.pdf",
         "date": "2016-10-6"
     },
     {
         "title": "所得款项用途之进一步变动",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-9-26.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-9-26.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-9-26-y.pdf",
         "date": "2016-9-26"
     },
     {
         "title": "截至二零一六年八月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-9-1.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-9-1.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-9-1-y.pdf",
         "date": "2016-9-1"
     },
     {
         "title": "2016中期报告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-31.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-31.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-31-y.pdf",
         "date": "2016-8-31"
     },
     {
@@ -1414,73 +1414,73 @@ var announcements = {
     {
         "title": "董事会召开日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-10.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-10.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-10-y.pdf",
         "date": "2016-8-10"
     },
     {
         "title": "截至二零一六年七月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-8-2-y.pdf",
         "date": "2016-8-2"
     },
     {
         "title": "截至二零一六年六月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-7-4.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-7-4.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-7-4-y.pdf",
         "date": "2016-7-4"
     },
     {
         "title": "2015年度股東週年大會表決結果及派發末期股息",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-6-6.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-6-6.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-6-6-y.pdf",
         "date": "2016-6-6"
     },
     {
         "title": "截至二零一六年五月三十一日止股份發行人的證券變動月報表 ",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-6-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-6-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-6-2-y.pdf",
         "date": "2016-6-2"
     },
     {
         "title": "所得款项用途之变动",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-5-16.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-5-16.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-5-16-y.pdf",
         "date": "2016-5-16"
     },
     {
         "title": "截至二零一六年四月三十日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-5-5.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-5-5.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-5-5-y.pdf",
         "date": "2016-5-5"
     },
     {
         "title": "2015年度報告",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-28.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-28.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-28-y.pdf",
         "date": "2016-4-28"
     },
     {
         "title": "2015年度股東週年大會通告",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20-3y.pdf",
         "date": "2016-4-20"
     },
     {
         "title": "於2016年6月6日舉行之2015年度股東週年大會適用之代理委託書",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20-2y.pdf",
         "date": "2016-4-20"
     },
     {
         "title": "於2016年6月6日舉行之2015年度股東週年大會出席確認回條 ",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-20-y.pdf",
         "date": "2016-4-20"
     },
     {
         "title": "截至二零一六年三月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-5.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-5.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-4-5-y.pdf",
         "date": "2016-4-5"
     },
     {
@@ -1492,43 +1492,43 @@ var announcements = {
     {
         "title": "董事会召开日期",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-3-14.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-3-14.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-3-14-y.pdf",
         "date": "2016-3-14"
     },
     {
         "title": "截至二零一六年二月二十九日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-3-2.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-3-2.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-3-2-y.pdf",
         "date": "2016-3-2"
     },
     {
         "title": "自愿公告-成立合营企业",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-2-19.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-2-19.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-2-19-y.pdf",
         "date": "2016-2-19"
     },
     {
         "title": "截至二零一六年一月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-2-3.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-2-3.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-2-3-y.pdf",
         "date": "2016-2-3"
     },
     {
         "title": "截至二零一五年十二月三十一日止股份發行人的證券變動月報表",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-1-7.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-1-7.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2016-1-7-y.pdf",
         "date": "2016-1-7"
     },
     {
         "title": "全球发售",
         "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2015-12-22.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2015-12-22.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2015-12-22-y.pdf",
         "date": "2015-12-22"
     },
     {
         "title": "全球发售       ",
-        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth- 2015-12-11.pdf",
-        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth- 2015-12-11.pdf",
+        "cn": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2015-12-11.pdf",
+        "en": "https://pmt8e84ed-pic16.websiteonline.cn/upload/ggjth-2015-12-11-y.pdf",
         "date": "2015-12-11"
     }]
 }

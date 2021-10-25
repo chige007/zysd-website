@@ -1,0 +1,43 @@
+@import 'util.less';
+
+#layer127FF103BE70D44B02F4CBDCFB55EB30{
+    .full_content{
+        overflow: hidden;
+    }
+}
+#layer321246A86A9E0E4EA8B31DDE884591F3,// 融资性担保
+#layerE9E5CA989B700562C51A03CD4AA33263{// 非融资性担保
+    &.active{
+        a{
+            background-color: #dc0315!important;
+            span{
+                color: #fff!important;
+            }
+        }
+    }
+}
+
+#layerC5BBECDA68DCB51E4BFE3608A95A5AC0,// 政策性担保
+#layerE73D68B83EA46934491FBBAEF770CB67{// 诉讼保全担保
+    .opacity(0);
+    left: -150%!important;
+    .animation(.8s);
+    &.show{
+        .opacity(1);
+        left: 0%!important;
+        right: 0%!important;
+        margin: auto;
+    }
+}
+#layerFE5314923DA592A60D77A758DE68C012,// 商业性担保
+#layerDABBB84CEC504980AF31D5DBB4DF1B64{// 工程履约担保
+    .opacity(0);
+    left: 150%!important;
+    .animation(.8s);
+    &.show{
+        .opacity(1);
+        left: 0%!important;
+        right: 0%!important;
+        margin: auto;
+    }
+}
