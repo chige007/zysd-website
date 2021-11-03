@@ -1,6 +1,7 @@
 $(function(){
     var bannerHeight = typeof GLOBAL_DATA_BANNER_HEIGHT !== 'undefined' ? GLOBAL_DATA_BANNER_HEIGHT : 700;
     var activeMenuIndex = typeof GLOBAL_DATA_ACTIVE_MENU_INDEX !== 'undefined' ? GLOBAL_DATA_ACTIVE_MENU_INDEX : 0;
+    var t_showMenu = undefined
     console.log('【activeMenuIndex】' + activeMenuIndex);
 
     var last_scrolltop = 0;
@@ -33,10 +34,14 @@ $(function(){
     if (typeof GLOBAL_SCROLLER !== 'undefined') {
         $(GLOBAL_SCROLLER).on('scroll', function() {
             var GLOBAL_NO_HIDE_TOP_MENU = window.GLOBAL_NO_HIDE_TOP_MENU || false;
+            clearTimeout(t_showMenu);
             if (GLOBAL_NO_HIDE_TOP_MENU) return;
             var myScrollTop = $(GLOBAL_SCROLLER)[0].scrollTop || 0;
             if (myScrollTop > 60) {
                 $('#global-menu').addClass('hide');
+                t_showMenu = setTimeout(() => {
+                    $('#global-menu').removeClass('hide');
+                }, 2000);
             } else {
                 $('#global-menu').removeClass('hide');
             }
